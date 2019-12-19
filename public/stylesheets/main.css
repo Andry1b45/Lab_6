@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(45deg,#f2ffba,rgb(248, 248, 241));
+}
+.text {
+  font-family: "Times New Roman", Times, serif;
+  padding: 25px;
+  margin: 25px;
+}
+a {
+  color: black !important;
+  text-decoration-line: none !important;
+}
+a:visited {
+  color: black !important;
+  text-decoration-line: none !important;
+}
+a:hover{
+  color: white !important;
+}
+table {
+    border: 3px solid rgb(8, 72, 248);
+    text-align: center;
+    margin: auto;
+    background-color: rgb(185, 213, 255);
+    padding: 5px;
+} 
+
+.input-group-prepend{
+  width: 10%;
+  margin-bottom: 2;
+}
