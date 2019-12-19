@@ -8,4 +8,4 @@ notifications:
 deploy: 
   provider: heroku
   api_key: $key
-  app: lab-6-node-kpi
+  app: "lab-6-node-kpi"
